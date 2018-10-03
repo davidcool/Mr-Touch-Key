@@ -10,8 +10,8 @@ It uses:
 This project is designed to interact with another project, Mr. Roboto found here:
 https://github.com/davidcool/Mr-Roboto
 
-In mode 3 on Mr. Roboto as the robot moves it sends random MIDI notes to the keyboard to be played.
-In mode 4 on Mr. Roboto as the keyboard is played different parts of the robot will move.
+- In mode 3 on Mr. Roboto as the robot moves it sends random MIDI notes to the keyboard to be played.
+- In mode 4 on Mr. Roboto as the keyboard is played different parts of the robot will move.
 
 ![alt text](https://github.com/davidcool/Mr-Touch-Key/blob/master/_pictures/mr_touch_key_schematic_v1.png)
 ![alt text](https://github.com/davidcool/Mr-Touch-Key/blob/master/_pictures/IMG_7016.jpg)
