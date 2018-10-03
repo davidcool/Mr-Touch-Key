@@ -4,7 +4,7 @@ A laser cut touch MIDI keyboard project.
 It uses:
 - Arduino Pro Micro
 - MPR-121 Touch Sensor (3.3v logic ONLY)
-- Bi-directional logic level converter (This LLC only needs 5V supply and it regulates down to the 3.3V needed for MPR-121)
+- Bi-directional logic level converter (This LLC only needs 5V supply and it regulates down to the 3.3V needed for MPR-121) I used this one: https://www.amazon.com/gp/product/B0148BLZGE/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1
 - 3.5mm stereo jack (has 3 leads used for TX, RX & GND using serial communication)
 
 This project is designed to interact with another project, Mr. Roboto found here:
