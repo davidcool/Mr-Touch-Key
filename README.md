@@ -33,6 +33,7 @@ https://github.com/davidcool/Mr-Roboto
 - In mode 4 on Mr. Roboto as the keyboard is played different parts of the robot will move.
 
 ![alt text](https://github.com/davidcool/Mr-Touch-Key/blob/master/_pictures/mr_touch_key_schematic_v1.png)
+![alt text](https://github.com/davidcool/Mr-Touch-Key/blob/master/_pictures/mr_touch_key_schematic_v2.png)
 ![alt text](https://github.com/davidcool/Mr-Touch-Key/blob/master/_pictures/IMG_7016.jpg)
 ![alt text](https://github.com/davidcool/Mr-Touch-Key/blob/master/_pictures/IMG_7017.jpg)
 ![alt text](https://github.com/davidcool/Mr-Touch-Key/blob/master/_pictures/IMG_5801.jpg)
